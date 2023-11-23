@@ -1,1 +1,1 @@
-<a href="#">![image](https://raw.githubusercontent.com/ZyrenthDev/.github/main/ZDevBanner.png)</a>
+<a href="#">![image](https://raw.githubusercontent.com/ZyrenthDev/.github/main/ZDevBannerV2.png)</a>
