@@ -4,6 +4,8 @@ This license governs the use of project-specific branding assets (including but 
 
 These branding assets are exclusive to "Zyrenth" and the projects officially created or managed by "Zyrenth". Any unauthorized use, reproduction, modification, or distribution of these assets is strictly prohibited.
 
+This license applies to all assets included in prior commits or branding that were covered by this license at the time of their inclusion, as well as to any such assets currently covered by it.
+
 ## Definitions:
 
 - **"Zyrenth"** *(Discord Identifier: 509018277549309962, Website: [https://zyrenth.dev/](https://zyrenth.dev/))*: An individual software developer and designer, online known as Zyrenth, zyrenth.dev and other variations of the name Zyrenth.
@@ -25,6 +27,9 @@ The Branding Assets are provided "as is", without warranty of any kind. Zyrenth 
 
 - [Zyrenth/Zyrenth/LICENSE.md](https://github.com/Zyrenth/Zyrenth/blob/main/LICENSE.md)
 - [Zyrenth/Zyrenth/ORG-LICENSE.md](https://github.com/Zyrenth/Zyrenth/blob/main/ORG-LICENSE.md)
+
+## Third-Party Assets
+This license does not apply to third-party assets, including but not limited to open-source fonts or other assets not owned by Zyrenth, even if such materials are included in branding or other assets.
 
 ## Contact:
 
